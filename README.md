@@ -21,7 +21,6 @@ Belarus radio station logos (160x120) for use in car media systems.
 | Kanal_Kultura | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Kanal_Kultura.png) |
 | Legendy_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Legendy_FM.png) |
 | MFM_105.0 | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/MFM_105.0.png) |
-| Melodii_Veka | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Melodii_Veka.png) |
 | Minskaya_Volna | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Minskaya_Volna.png) |
 | Narodnoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Narodnoe_Radio.png) |
 | Novoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Novoe_Radio.png) |
