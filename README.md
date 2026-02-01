@@ -12,7 +12,6 @@ Belarus radio station logos (160x120) for use in following car media systems MIB
 | --------- | ------ | ------ |
 | 1_Kanal | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/1_Kanal.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
 | Alfa_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Alfa_Radio.png) | [alfaradio.by](https://alfaradio.by/upload/medialibrary/67c/67c81233f2147cf2ba206014fa659de8.png) |
-| Aplus_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Aplus_FM.png) | [phonostar.de](https://www.phonostar.de/images/auto_created/aplus_fm184x184.png) |
 | Avto_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Avto_Radio.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
 | Baranovichi_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Baranovichi_FM.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
 | Center_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Center_FM.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
