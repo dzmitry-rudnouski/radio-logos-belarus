@@ -1,6 +1,7 @@
 # Radio Logos Belarus
 
-Belarus radio station logos (160x120) for use in car media systems.
+Belarus radio station logos (160x120) for use in following car media systems:
+MIB STD2 PQ/ZR, MIB2 STD, MIB2 HIGH (Audi MMI, Skoda Bolero/Amundsen/Columbus, VW Composition/Discover Media/Pro, Seat Advanced Media/Navi System/Plus)
 
 ## Logos
 
@@ -14,7 +15,7 @@ Belarus radio station logos (160x120) for use in car media systems.
 | Center_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Center_FM.png) | https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip |
 | Dushevnoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Dushevnoe_Radio.png) | https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip |
 | Europa_Plus | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Europa_Plus.png) | https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip |
-| Gomelskaya_Haradzkoye_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Gomelskaya_Haradzkoye_Radio.png) | |
+| Gomelskaya_Haradzkoye_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Gomelskaya_Haradzkoye_Radio.png) | https://www.phonostar.de/images/auto_created/Gomelskaya_Haradzkoye_Radio184x184.png |
 | Gorod_FM_97.7 | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Gorod_FM_97.7.png) | |
 | Hit_Radio_100.4 | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Hit_Radio_100.4.png) | |
 | Humor_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Humor_FM.png) | |
