@@ -28,7 +28,7 @@ Belarus radio station logos (160x120) for use in following car media systems MIB
 | Narodnoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Narodnoe_Radio.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
 | Novoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Novoe_Radio.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
 | Pilot_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Pilot_FM.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
-| Pravda_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Pravda_Radio.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
+| Pravda_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Pravda_Radio.png) | [pravdaradio.by](https://pravdaradio.by/images/logoBlack.png) |
 | Radio_BA_International | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_BA_International.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
 | Radio_Belarus | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Belarus.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
 | Radio_Brest | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Brest.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
