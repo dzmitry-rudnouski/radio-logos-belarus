@@ -39,6 +39,7 @@ Belarus radio station logos (160x120) for use in following car media systems MIB
 | Radio_Minsk | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Minsk.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
 | Radio_Mir | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Mir.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
 | Radio_Mogilev | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Mogilev.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
+| Radio_Pobeda | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Pobeda.png) | [radiopobeda.by](https://radiopobeda.by/img/logo_3.png) |
 | Radio_Ranak | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Ranak.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
 | Radio_Relax | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Relax.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
 | Radio_Roks | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Radio_Roks.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
