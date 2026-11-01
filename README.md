@@ -15,7 +15,7 @@ Belarus radio station logos (160x120) for use in following car media systems MIB
 | Avto_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Avto_Radio.png) | [avtoradio.by](https://avtoradio.by/assets/i/hdr-logo.png) |
 | Baranovichi_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Baranovichi_FM.png) | [100fm.by](http://100fm.by/wp-content/uploads/2019/04/logo.png) |
 | Center_FM | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Center_FM.png) | [MQB2_Europe_v1.10.60.zip](https://www.phonostar.de/download/vw/MQB2_Europe_v1.10.60.zip) |
-| Dushevnoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Dushevnoe_Radio.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
+| Dushevnoe_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Dushevnoe_Radio.png) | [dushevnoeradio.by](https://dushevnoeradio.by/_img/logo.svg) |
 | Europa_Plus | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Europa_Plus.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
 | Gomelskaya_Haradzkoye_Radio | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Gomelskaya_Haradzkoye_Radio.png) | [phonostar.de](https://www.phonostar.de/images/auto_created/Gomelskaya_Haradzkoye_Radio184x184.png) |
 | Gorod_FM_97.7 | ![](https://raw.githubusercontent.com/dzmitry-rudnouski/radio-logos-belarus/main/Gorod_FM_97.7.png) | [BLR_20200331.zip](https://updateportal.skoda-auto.com/Download/RadioLogos/BLR_20200331.zip) |
